@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph//file/2a8e42a346478715b197f.jpg" alt="ICON" width="150" height="150"/></p>
+<p align="center"><img src="https://telegra.ph//file/2a8e42a346478715b197f.jpg" alt="ICON" width="150" height="300"/></p>
 
 <h4 align="center">
     A simple Chat-Bot written in Pyrogram using Mongodb.
