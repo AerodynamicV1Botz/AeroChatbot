@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/YukkiChatBot >.
+# Copyright (C) 2021-2022 by AerodynamicV1Botz@Github, < https://github.com/YukkiChatBot >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiChatBot > project,
+# This file is part of < https://github.com/AerodynamicV1Botz/AeroChatbot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiChatBot/blob/master/LICENSE >
+# Please see < https://github.com/AerodynamicV1Botz/AeroChatbot/blob/master/LICENSE >
 #
 # All rights reserved.
 #
@@ -35,5 +35,5 @@ PRIVATE_START_MESSAGE = getenv(
     "Hello! Welcome to my Personal Assistant Bot",
 )
 
-# Database to save your chats and stats... Get MongoDB:-  https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb#4.-youll-see-a-deploy-cloud-database-option.-please-select-shared-hosting-under-free-plan-here
+# Database to save your chats and stats... Get MongoDB:-  https://AerodynamicV1Botz.gitbook.io/AeroChatbot/deployment/mongodb#4.-youll-see-a-deploy-cloud-database-option.-please-select-shared-hosting-under-free-plan-here
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
