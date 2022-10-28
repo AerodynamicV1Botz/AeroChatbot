@@ -1,6 +1,0 @@
-asyncio
-dnspython
-motor
-pyrogram==1.4.16
-python-dotenv
-tgcrypto
