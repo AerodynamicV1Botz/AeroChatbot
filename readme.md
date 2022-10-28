@@ -22,13 +22,13 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Yukki Chat Bot on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TeamYukki/YukkiChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/AerodynamicV1Botz/AeroChatbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 ## 🖇 VPS Deployment
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiChatBot
+shikhar@MacBook~ $ git clone https://github.com/AerodynamicV1Botz/AeroChatbot
 shikhar@MacBook~ $ cd YukkiChatBot
 shikhar@MacBook~ $ pip3 install -r requirements.txt
 shikhar@MacBook~ $ mv sample.env .env
